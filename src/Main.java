@@ -18,7 +18,6 @@ public class Main {
 
     public static void task1() {
         System.out.println("Задача 1");
-        char clientOS = 1;
         int year = 2000;
         checksOfLeepYearAndPrintResult(year);
     }
